@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\grantbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\grantbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\grantbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\grantbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\home page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\home page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\library-management-system-in-c-and-sql-master\\library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\library management system\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1089,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Fine.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Fine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Fine.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Fine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:17:06.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\IssueBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\IssueBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\IssueBook.cs",
+              "RelativeToolTip": "Library Management System\\IssueBook.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:15:14.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home Page.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Home Page.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.cs",
+              "RelativeToolTip": "Library Management System\\Home Page.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswKYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:35:40.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Home Page.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Home Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:28:15.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\IssueBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\IssueBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\IssueBook.cs [Design]",
+              "RelativeToolTip": "Library Management System\\IssueBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:15:07.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrantBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\GrantBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\GrantBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\GrantBook.cs",
+              "RelativeToolTip": "Library Management System\\GrantBook.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwGwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:15:32.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GrantBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\GrantBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\GrantBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\GrantBook.cs [Design]",
+              "RelativeToolTip": "Library Management System\\GrantBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:15:27.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Login.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:36:26.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Login.cs",
+              "RelativeToolTip": "Library Management System\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:36:29.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home Page.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.Designer.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Home Page.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.Designer.cs",
+              "RelativeToolTip": "Library Management System\\Home Page.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:29:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\AddBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\AddBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\AddBook.cs [Design]",
+              "RelativeToolTip": "Library Management System\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:59:11.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
