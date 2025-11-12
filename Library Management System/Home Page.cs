@@ -130,7 +130,7 @@ namespace Library_Management_System
             AddUserControl(Update);
         }
 
-        private void button9_Click_1(object sender, EventArgs e)
+        private void button9_Click(object sender, EventArgs e)
         {
             DeleteUser Delete = new DeleteUser();
             AddUserControl(Delete);
@@ -164,6 +164,8 @@ namespace Library_Management_System
         {
             Application.Exit();
         }
+
+        
     }
 
 }

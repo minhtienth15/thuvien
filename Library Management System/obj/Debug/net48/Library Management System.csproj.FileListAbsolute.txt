@@ -1,0 +1,69 @@
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\Library Management System.exe.config
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\Library Management System.exe
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\Library Management System.pdb
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\ScottPlot.dll
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\ScottPlot.WinForms.dll
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.AddBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.AddUser.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.DeleteBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.DeleteUser.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Fine.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.GrantBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Home Page.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.IssueBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Login.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Properties.Resources.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ReIssue Book.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ReturnBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.UpdateBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.UpdateUser.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ViewBook.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ViewUser.resources
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.AssemblyInfo.cs
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library .F7D87690.Up2Date
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.exe
+C:\Users\Admin\Downloads\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.pdb
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\Library Management System.exe.config
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\Library Management System.exe
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\Library Management System.pdb
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\ScottPlot.dll
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\ScottPlot.WinForms.dll
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.exe.config
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.AddBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.AddUser.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.DeleteBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.DeleteUser.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Fine.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.GrantBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Home Page.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.IssueBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Login.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.Properties.Resources.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ReIssue Book.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ReturnBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.UpdateBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.UpdateUser.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ViewBook.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library_Management_System.ViewUser.resources
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.AssemblyInfo.cs
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library .F7D87690.Up2Date
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.exe
+C:\Users\Admin\source\repos\thuvien-main\Library Management System\obj\Debug\net48\Library Management System.pdb

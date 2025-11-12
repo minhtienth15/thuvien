@@ -1,4 +1,6 @@
-﻿namespace Library_Management_System
+﻿using System.Drawing;
+
+namespace Library_Management_System
 {
     partial class IssueBook
     {
